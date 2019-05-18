@@ -1,0 +1,10 @@
+{
+	"name": "com.unity.ai.navmesh",
+	"displayName":"Unity Navmesh components",
+	"version": "1.0.0",
+	"unity": "2018.3",
+	"description": "Here we introduce four components for the navigation system:\\n\\tNavMeshSurface – for building and enabling a NavMesh surface for one agent type.\\n\\tNavMeshModifier – affects the NavMesh generation of NavMesh area types, based on the transform hierarchy.\\n\\tNavMeshModifierVolume – affects the NavMesh generation of NavMesh area types, based on volume.\n\\tNavMeshLink – connects same or different NavMesh surfaces for one agent type.\\n\\tThese components comprise the high level controls for building and using NavMeshes at runtime as well as edit time.",
+	"keywords": ["ai", "navmesh"],
+	"dependencies": {
+	}
+}

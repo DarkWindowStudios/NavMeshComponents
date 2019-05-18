@@ -1,4 +1,4 @@
-> Please use the branch matching the version of your Unity editor: [master](../../tree/master) for the latest released version, [2018.3](../../tree/2018.3), [2018.2](../../tree/2018.2), [2018.1](../../tree/2018.1), [2017.2](../../tree/2017.2) for up to 2017.4-LTS, [2017.1](../../tree/2017.1), [5.6](../../tree/5.6).
+> This is forked from the original [NavmeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) with the aim of being a package. As Git repos can be added to the Package Manager as of 2019.3, this will hopefully alleviate the issue of including the source code in the project and will hopefully be a temporary solution to Unity's lack of a package. This is based off the work done by Unity on the build/package branch. This package is up to date for 2019.1 as of 18/05/2019.
 
 # Components for Runtime NavMesh Building
 

@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Editor.NavMeshComponents",
+    "references": [
+        "Unity.Runtime.NavMeshComponents"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
